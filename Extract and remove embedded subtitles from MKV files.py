@@ -27,7 +27,8 @@ codec_map = {
 	"S_HDMV/PGS": "sup", # HDMV presentation graphics subtitles
 	"S_HDMV/TEXTST": "textst", # HDMV presentation text subtitles
 	"S_DVBSUB": "dvb", # HDMV presentation text subtitles
-}	"S_TEXT/WEBVTT": "vtt", # WebVTT Web Video Text Track subtitles
+	"S_TEXT/WEBVTT": "vtt", # WebVTT Web Video Text Track subtitles
+}
 
 os.chdir(os.environ['SAB_COMPLETE_DIR']) # Change directory to download path
 
