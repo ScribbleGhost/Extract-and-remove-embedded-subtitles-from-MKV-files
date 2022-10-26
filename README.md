@@ -59,7 +59,7 @@ Even if Plex did not have this issue I would still prefer to have external subti
 - In SABnzbd go to SABnzbd config ➜ Folders ➜ Set a folder where you want to have your custom scripts.
 
 - Place this script in the SABnzbd scripts folder.
-- In SABnzbd go to SABnzbd config ➜ Categories ➜ From the drop-down menu for the movies/tv category select the **.bat** script (not the .py).
+- In SABnzbd go to SABnzbd config ➜ Categories ➜ From the drop-down menu for the movies/tv category select the **.py** script.
 - Save (you need to save for each category).
 
 **3. Make Radarr and Sonarr import extra files**
