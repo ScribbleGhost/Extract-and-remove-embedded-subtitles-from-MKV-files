@@ -16,6 +16,8 @@ It is specifically meant to work together with [Sonarr](sonarr.tv/) and [Radarr]
 
 ## What does it do?
 
+![2022-10-26T18-46-37](https://user-images.githubusercontent.com/49068170/198092381-7e8aa4e0-6230-43a9-8f76-c3bb1780f433.png)
+
 1. Extracts all embedded subtitles to external files.
 2. Makes a new video file excluding embedded subtitles, and deletes the original video file.
 3. Makes a zip file with the extracted subtitles. This is a workaround for Sonarr/Radarr. Read more below.
