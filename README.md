@@ -60,6 +60,9 @@ Even if Plex did not have this issue I would still prefer to have external subti
 
 - Place this script in the SABnzbd scripts folder.
 - In SABnzbd go to SABnzbd config ➜ Categories ➜ From the drop-down menu for the movies/tv category select the **.py** script.
+
+![7744753484588243](https://user-images.githubusercontent.com/49068170/197951685-6a8b6520-b253-4339-8082-a74dada1a8b5.png)
+
 - Save (you need to save for each category).
 
 **3. Make Radarr and Sonarr import extra files**
